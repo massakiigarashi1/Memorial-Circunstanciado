@@ -73,3 +73,19 @@ anexo: comprovante n° V.03 (Pág. 31)](https://github.com/massakiigarashi1/Memo
 anexo: comprovante n° V.08 (Pág. 36)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/V.08_Music%20learning%20machine_Um%20relato%20de%20experi%C3%AAncia%20no%20aprendizado%20de%20Linguagem%20de%20Programa%C3%A7%C3%A3o%20-%20COBENGE%202018%20(P%C3%A1g.%2036).pdf)
 
 - [2018 Ensino ativo e inclusivo na engenharia: um relato de caso – COBENGE 2018 anexo: comprovante n° V.09 (Pág. 37)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/V.09_ENSINO%20ATIVO%20E%20INCLUSIVO%20NA%20ENGENHARIA%20UM%20RELATO%20DE%20CASO%20-%20COBENGE%202018%20(P%C3%A1g.%2037).pdf)
+
+**VI. PARTICIPAÇÃO EM CONGRESSOS, WORKSHOPS, ETC.**
+
+*Como Organizador*
+
+- [2023 ORGANIZADOR - 2º Hackathon Mackenzie Campinas - 20out a 22nov23 anexo: comprovante n° VI.01 (Pág. 38)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.01_ORGANIZADOR%20-%202%C2%BA%20Hackathon%20Mackenzie%20Campinas%20-%2020out%20a%2022nov23%20(P%C3%A1g.%2038).pdf)
+
+- [2022 ORGANIZADOR - 1º Hackathon Mackenzie Campinas - 19 a 23set2022 anexo: comprovante n° VI.02 (Pág. 40)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.02_ORGANIZADOR%20-%201%C2%BA%20Hackathon%20Mackenzie%20Campinas%20-%20%2019%20a%2023set2022%20(P%C3%A1g.%2040).pdf)
+
+- [2022 ORGANIZADOR - MiniCurso Introducao à Linguagem Python com RPA - 6h - 12 a 19set22 anexo: comprovante n° VI.03 (Pág. 42)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.03_ORGANIZADOR%20%20-%20MiniCurso%20Introducao%20%C3%A0%20Linguagem%20Python%20com%20RPA%20-%206h%20-%2012%20a%2019set22%20(P%C3%A1g.%2042).pdf)
+
+- [2022 ORGANIZADOR - Evento Mack Rede - Maria Guilhermina Lopes Fagundes - 11maio22 anexo: comprovante n° VI.04 (Pág. 43)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.04_ORGANIZADOR%20-%20Evento%20Mack%20Rede%20-%20Maria%20Guilhermina%20Lopes%20Fagundes%20-%2011maio22%20(P%C3%A1g.%2044).pdf)
+
+- [2022 ORGANIZADOR - MiniCurso Introducao à Linguagem Python com RPA - 30abr22 anexo: comprovante n° VI.05 (Pág. 44 )](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.05_ORGANIZADOR%20%20-%20MiniCurso%20Introducao%20%C3%A0%20Linguagem%20Python%20com%20RPA%20-%2030abr22%20(P%C3%A1g.%2046).pdf)
+
+- [2022 ORGANIZADOR - Evento Mack Rede - 13abr22 anexo: comprovante n° VI.06 (Pág. 45)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.06_ORGANIZADOR%20%20-%20Evento%20Mack%20Rede%20-%2013abr22%20(P%C3%A1g.%2048).pdf)
