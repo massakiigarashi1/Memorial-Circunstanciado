@@ -14,3 +14,5 @@ E-mail: massaki.igarashi@gmail.com
 [II. Currículo Lattes Massaki - 9359934526855676](https://lattes.cnpq.br/9359934526855676)
 
 III. FORMAÇÃO ACADÊMICA
+Mestrado
+[2011 ENGENHARIA DA INFORMAÇÃO (UFABC) anexo: comprovante n° III.01 (Pág. 16)]()
