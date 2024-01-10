@@ -29,3 +29,4 @@ E-mail: massaki.igarashi@gmail.com
 
 [2023 Participação Formação MackSTLR 16.08.23 anexo: comprovante n° IV.01 (Pág. 20)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/IV.01_Participa%C3%A7%C3%A3o%20Forma%C3%A7%C3%A3o%20MackSTLR%2016.08.23%20(P%C3%A1g.%2020).pdf)
 
+[2023 Participação do VII Forum AT - jul2023 anexo: comprovante n° IV.02 (Pág. 21)]()
