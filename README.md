@@ -21,4 +21,11 @@ Mestrado
 
 Graduação
 
-[2008 ENGENHARIA ELÉTRICA / Modalidade: Eletrônica anexo: comprovante n° III.02 (Pág. 18)]()
+[2008 ENGENHARIA ELÉTRICA / Modalidade: Eletrônica anexo: comprovante n° III.02 (Pág. 18)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/III.02%20-%20DIPLOMA%20GRADUA%C3%87%C3%83O%20(P%C3%A1g.%2018).pdf)
+
+IV. FORMAÇÃO COMPLEMENTAR
+
+Cursos de extensão
+
+[2023 Participação Formação MackSTLR 16.08.23 anexo: comprovante n° IV.01 (Pág. 20)]()
+
