@@ -47,5 +47,27 @@ E-mail: massaki.igarashi@gmail.com
 
 **V. PUBLICAÇÕES**
 
+- [2021 STOPIGLIA, Felipe Silveira et al. The Integration of Alteryx® and Microsoft Power BI®: A Case Study. In: Brazilian Technology Symposium. Cham: Springer International
+Publishing, 2021. p. 229-235. anexo: comprovante n° V.01 (Pág. 29)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/V.01%20-%20The%20Integration%20of%20Alteryx%C2%AE%20and%20Microsoft%20Power%20BI%C2%AE_%20A%20Case%20Study%20_%20SpringerLink%20(P%C3%A1g.%2029).pdf)
 
+- [2020 IINUMA, Nilton M.; DE O. IGARASHI, Massaki. Phone calls speech-to-text: A comparison
+between APIs for the portuguese language. In: Proceedings of the 5th Brazilian
+Technology Symposium: Emerging Trends, Issues, and Challenges in the Brazilian
+Technology, Volume 2. Springer International Publishing, 2021. p. 437-445.
+anexo: comprovante n° V.02 (Pág. 30)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/V.02%20-%20Phone%20Calls%20Speech-to-Text_%20A%20Comparison%20Between%20APIs%20for%20the%20Portuguese%20Language%20_%20SpringerLink%20(P%C3%A1g.%2030).pdf)
 
+- [2019 DE O. IGARASHI, Massaki; SARTORELLI, Paulo E.; DE LIMA, Mariana ZT. Twenty years
+survey of big data: Definition, concepts, and applications in engineering. In: Brazilian
+Technology Symposium. Cham: Springer International Publishing, 2019. p. 509-517.
+anexo: comprovante n° V.03 (Pág. 31)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/V.03%20-%20Twenty%20Years%20Survey%20of%20Big%20Data_%20Definition%2C%20Concepts%2C%20and%20Applications%20in%20Engineering%20_%20SpringerLink%20(P%C3%A1g.%2031).pdf)
+
+- [2021 Proceedings of the 7th Brazilian Technology Symposium (BTSym’21) - eBook ISBN 978-3-031-08545-1 / Print ISBN 978-3-031-08544-4anexo: comprovante n° V.04 (Pág. 32)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/V.04_eBook_Proceedings%20of%20the%207th%20Brazilian%20Technology%20Symposium%20(BTSym%E2%80%9921)%20(P%C3%A1g.%2032).pdf)
+
+- [2019 Certificado BTSym'19 - ID_212 anexo: comprovante n° V.05 (Pág. 33)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/V.05_Certificado%20BTSym'19%20-%20ID_212%20(P%C3%A1g.%2033).pdf)
+
+- [2019 Certificado BTSym'19 - ID_209 anexo: comprovante n° V.06 (Pág. 34)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/V.06_Certificado%20BTSym'19%20-%20ID_209%20(P%C3%A1g.%2034).pdf)
+
+- [2019 Certificado BTSym'19 - ID_113 anexo: comprovante n° V.07 (Pág. 35)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/V.07_Certificado%20BTSym'19%20-%20ID_113%20(P%C3%A1g.%2035).pdf)
+
+- [2018 Music learning machine: Um Relato De Experiência No Aprendizado De Linguagem De Programação – COBENGE 2018
+anexo: comprovante n° V.08 (Pág. 36)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/V.08_Music%20learning%20machine_Um%20relato%20de%20experi%C3%AAncia%20no%20aprendizado%20de%20Linguagem%20de%20Programa%C3%A7%C3%A3o%20-%20COBENGE%202018%20(P%C3%A1g.%2036).pdf)
