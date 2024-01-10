@@ -89,3 +89,85 @@ anexo: comprovante n° V.08 (Pág. 36)](https://github.com/massakiigarashi1/Memo
 - [2022 ORGANIZADOR - MiniCurso Introducao à Linguagem Python com RPA - 30abr22 anexo: comprovante n° VI.05 (Pág. 44 )](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.05_ORGANIZADOR%20%20-%20MiniCurso%20Introducao%20%C3%A0%20Linguagem%20Python%20com%20RPA%20-%2030abr22%20(P%C3%A1g.%2046).pdf)
 
 - [2022 ORGANIZADOR - Evento Mack Rede - 13abr22 anexo: comprovante n° VI.06 (Pág. 45)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.06_ORGANIZADOR%20%20-%20Evento%20Mack%20Rede%20-%2013abr22%20(P%C3%A1g.%2048).pdf)
+
+- [2020 ORGANIZADOR VI SEMACK anexo: comprovante n° VI.07 (Pág. 46)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.07_ORGANIZADOR%20VI%20SEMACK%20(P%C3%A1g.%2050).pdf)
+
+*Como Avaliador*
+
+- [2023 Certificado Avaliador 14ª BENTOTEC 2023 anexo: comprovante n° VI.08 (Pág. 47)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.08_1_Certificado%20Avaliador%2014%C2%AA%20BENTOTEC%202023%20(P%C3%A1g.%2051).pdf)
+
+- [2023 Certificado Avaliador(a) do PIBITI de 2023 anexo: comprovante n° VI.09 (Pág. 48)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.09_Certificado%20Avaliador(a)%20do%20PIBITI%20de%202023%20(P%C3%A1g.%2052).pdf)
+
+- [2022 Ofício Avaliador 13ª BENTOTEC 2022 anexo: comprovante n° VI.10 (Pág. 49)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.10_Of%C3%ADcio%20Avaliador%2013%C2%AA%20BENTOTEC%202022%20(P%C3%A1g.%2053).pdf)
+
+- [2021 Certificado AVALIADOR Jornada IC2021 anexo: comprovante n° VI.11 (Pág. 50)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.11_Certificado%20AVALIADOR%20Jornada%20IC2021%20(P%C3%A1g.%2054).pdf)
+
+- [2021 Certificado_febrace_pre-avaliacao_2021 anexo: comprovante n° VI.12 (Pág. 51)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.12_Certificado_febrace_pre-avaliacao_2021%20(P%C3%A1g.%2055).pdf)
+
+- [2021 Certificado_febrace_avaliacao_2021 anexo: comprovante n° VI.13 (Pág. 52)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.13_Certificado_febrace_avaliacao_2021%20(P%C3%A1g.%2056).pdf)
+
+- [2019 Certificado Jornada IC2019 – Avaliador anexo: comprovante n° VI.14 (Pág. 53)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.14_Certificado%20Jornada%20IC2019%20-%20Avaliador%20(P%C3%A1g.%2057).pdf)
+
+- [2017 Certificado_febrace_avaliacao_2017 anexo: comprovante n° VI.15 (Pág. 54)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.15_Certificado_febrace_avaliacao_2017%20(P%C3%A1g.%2058).pdf)
+
+- [2013 Certificado_Avaliador FEBRACE 2013 anexo: comprovante n° VI.16 (Pág. 55)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.16_Certificado_Avaliador%20FEBRACE%202013%20(P%C3%A1g.%2059).pdf)
+
+*Como Apresentador Oral*
+
+- [2021 Certificado_Btsym2021_Brazil__135 anexo: comprovante n° VI.17 (Pág. 56)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.17_Certificado_Btsym2021_Brazil__135%20(P%C3%A1g.%2060).pdf)
+
+- [2016 Certificado BTSym'16 anexo: comprovante n° VI.18 (Pág. 57)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.18_Certificado%20BTSym'16%20(P%C3%A1g.%2061).pdf)
+
+*Como Ouvinte / Autor e Co-autor de Trabalhos*
+
+- [2021 Certificado II Forum AT jan2021 anexo: comprovante n° VI.19 (Pág. 58)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.19_Certificado%20II%20Forum%20AT%20jan2021%20(P%C3%A1g.%2062).pdf)
+
+- [2017 Certificado BTSym'17 - Semáforos Inteligentes_ Abordagem Alternativa anexo: comprovante n° VI.20 (Pág. 59)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.20_Certificado%20BTSym'17%20-%20Sem%C3%A1foros%20Inteligentes_uma%20Abordagem%20Alternativa%20(P%C3%A1g.%2063).pdf)
+
+- [2017 Certificado BTSym'17 - Mineração de dados e big data em logística: um estudo de caso. Anexo: comprovante n° VI.21 (Pág. 60)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.21_Certificado%20BTSym'17%20-%20Minera%C3%A7%C3%A3o%20de%20dados%20e%20big%20data%20em%20log%C3%ADstica_um%20estudo%20de%20caso%20(P%C3%A1g.%2064).pdf)
+
+- [2017 Certificado BTSym'17 - Certificado de Participação anexo: comprovante n° VI.22 (Pág. 61)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.22_Certificado%20BTSym'17%20-%20Certificado%20de%20Participa%C3%A7%C3%A3o%20(P%C3%A1g.%2065).pdf)
+
+- [2016 Certificado BTSym'16 - Certificado de Participação anexo: comprovante n° VI.23 (Pág. 62)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.23_Certificado%20BTSym'16%20-%20Certificado%20de%20Participa%C3%A7%C3%A3o%20(P%C3%A1g.%2066).pdf)
+
+**VII. EXPERIÊNCIAS PROFISSIONAIS**
+
+*Participação em projetos de pesquisa*
+
+- [2018 Contrato MackPesquisa - Observatório Mackenzie de precedentes obritatórios_Decisões judiciais vinculantes e seus efeitos na sociedade anexo: comprovante n° VII.01 (Pág. 63)]()
+
+*Orientações*
+
+- [2023 Certificado Orientador Sophia F. Faria - PIBITI 22_23 anexo: comprovante n° VII.02 (Pág. 64)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.02_Certificado%20Orientador%20Sophia%20F.%20Faria%20-%20PIBITI%2022_23%20%20(P%C3%A1g.%2068).pdf)
+
+- [2023 Certificado Orientador Isabela F. Paranaiba - PIBITI 22_23 anexo: comprovante n° VII.03 (Pág. 66)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.03_Certificado%20Orientador%20Isabela%20F.%20Paranaiba%20-%20PIBITI%2022_23%20%20(P%C3%A1g.%2070).pdf)
+
+- [2022 Certificado Orientador Elisabete de F. Olimpio - PIBITI 21_22 anexo: comprovante n° VII.04 (Pág. 68)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.04_Certificado%20Orientador%20Elisabete%20de%20F.%20Olimpio%20-%20PIBITI%2021_22%20(P%C3%A1g.%2072).pdf)
+
+- []()
+
+- []()
+  
+- []()
+  
+- []()
+
+- []()
+  
+- []()
+
+- []()
+
+- []()
+  
+- []()
+  
+- []()
+
+- []()
+  
+- []()
+
+- []()
+  
+- []()
