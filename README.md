@@ -71,3 +71,5 @@ anexo: comprovante n° V.03 (Pág. 31)](https://github.com/massakiigarashi1/Memo
 
 - [2018 Music learning machine: Um Relato De Experiência No Aprendizado De Linguagem De Programação – COBENGE 2018
 anexo: comprovante n° V.08 (Pág. 36)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/V.08_Music%20learning%20machine_Um%20relato%20de%20experi%C3%AAncia%20no%20aprendizado%20de%20Linguagem%20de%20Programa%C3%A7%C3%A3o%20-%20COBENGE%202018%20(P%C3%A1g.%2036).pdf)
+
+- [2018 Ensino ativo e inclusivo na engenharia: um relato de caso – COBENGE 2018 anexo: comprovante n° V.09 (Pág. 37)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/V.09_ENSINO%20ATIVO%20E%20INCLUSIVO%20NA%20ENGENHARIA%20UM%20RELATO%20DE%20CASO%20-%20COBENGE%202018%20(P%C3%A1g.%2037).pdf)
