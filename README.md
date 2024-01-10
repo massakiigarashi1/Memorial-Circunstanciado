@@ -31,4 +31,6 @@ E-mail: massaki.igarashi@gmail.com
 
 [2023 Participação do VII Forum AT - jul2023 anexo: comprovante n° IV.02 (Pág. 21)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/IV.02_Participa%C3%A7%C3%A3o%20do%20VII%20Forum%20AT%20-%20jul2023%20(P%C3%A1g.%2021).pdf)
 
-[2023 Certificado Treinamento Laser FABLAB anexo: comprovante n° IV..03 (Pág. 22)]()
+[2023 Certificado Treinamento Laser FABLAB anexo: comprovante n° IV..03 (Pág. 22)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/IV.03_Certificado%20Treinamento%20Laser%20FABLAB%20(P%C3%A1g.%2022).pdf)
+
+[2022 CERTIFICADO IV Forum AT jan2022 anexo: comprovante n° IV.04 (Pág. 23)]()
