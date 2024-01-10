@@ -27,9 +27,9 @@ E-mail: massaki.igarashi@gmail.com
 
 *Cursos de extensão*
 
-- [2023 Participação Formação MackSTLR 16.08.23 anexo: comprovante n° IV.01 (Pág. 20)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/IV.01_Participa%C3%A7%C3%A3o%20Forma%C3%A7%C3%A3o%20MackSTLR%2016.08.23%20(P%C3%A1g.%2020).pdf)
+- [2023 Participação Formação MackSTLR 16.08.23 anexo: comprovante n° IV.01 (Pág.20)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/IV.01_Participa%C3%A7%C3%A3o%20Forma%C3%A7%C3%A3o%20MackSTLR%2016.08.23%20(P%C3%A1g.%2020).pdf)
 
-- [2023 Participação do VII Forum AT - jul2023 anexo: comprovante n° IV.02 (Pág. 21)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/IV.02_Participa%C3%A7%C3%A3o%20do%20VII%20Forum%20AT%20-%20jul2023%20(P%C3%A1g.%2021).pdf)
+- [2023 Participação do VII Forum AT - jul2023 anexo: comprovante n° IV.02 (Pág.21)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/IV.02_Participa%C3%A7%C3%A3o%20do%20VII%20Forum%20AT%20-%20jul2023%20(P%C3%A1g.%2021).pdf)
 
 - [2023 Certificado Treinamento Laser FABLAB anexo: comprovante n° IV..03 (Pág. 22)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/IV.03_Certificado%20Treinamento%20Laser%20FABLAB%20(P%C3%A1g.%2022).pdf)
 
@@ -48,7 +48,7 @@ E-mail: massaki.igarashi@gmail.com
 **V. PUBLICAÇÕES**
 
 - [2021 STOPIGLIA, Felipe Silveira et al. The Integration of Alteryx® and Microsoft Power BI®: A Case Study. In: Brazilian Technology Symposium. Cham: Springer International
-Publishing, 2021. p. 229-235. anexo: comprovante n° V.01 (Pág. 29)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/V.01%20-%20The%20Integration%20of%20Alteryx%C2%AE%20and%20Microsoft%20Power%20BI%C2%AE_%20A%20Case%20Study%20_%20SpringerLink%20(P%C3%A1g.%2029).pdf)
+Publishing, 2021. p. 229-235. anexo: comprovante n° V.01 (Pág.29)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/V.01%20-%20The%20Integration%20of%20Alteryx%C2%AE%20and%20Microsoft%20Power%20BI%C2%AE_%20A%20Case%20Study%20_%20SpringerLink%20(P%C3%A1g.%2029).pdf)
 
 - [2020 IINUMA, Nilton M.; DE O. IGARASHI, Massaki. Phone calls speech-to-text: A comparison
 between APIs for the portuguese language. In: Proceedings of the 5th Brazilian
@@ -86,7 +86,7 @@ anexo: comprovante n° V.08 (Pág. 36)](https://github.com/massakiigarashi1/Memo
 
 - [2022 ORGANIZADOR - Evento Mack Rede - Maria Guilhermina Lopes Fagundes - 11maio22 anexo: comprovante n° VI.04 (Pág. 43)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.04_ORGANIZADOR%20-%20Evento%20Mack%20Rede%20-%20Maria%20Guilhermina%20Lopes%20Fagundes%20-%2011maio22%20(P%C3%A1g.%2044).pdf)
 
-- [2022 ORGANIZADOR - MiniCurso Introducao à Linguagem Python com RPA - 30abr22 anexo: comprovante n° VI.05 (Pág. 44 )](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.05_ORGANIZADOR%20%20-%20MiniCurso%20Introducao%20%C3%A0%20Linguagem%20Python%20com%20RPA%20-%2030abr22%20(P%C3%A1g.%2046).pdf)
+- [2022 ORGANIZADOR - MiniCurso Introducao à Linguagem Python com RPA - 30abr22 anexo: comprovante n° VI.05 (Pág.44)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.05_ORGANIZADOR%20%20-%20MiniCurso%20Introducao%20%C3%A0%20Linguagem%20Python%20com%20RPA%20-%2030abr22%20(P%C3%A1g.%2046).pdf)
 
 - [2022 ORGANIZADOR - Evento Mack Rede - 13abr22 anexo: comprovante n° VI.06 (Pág. 45)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VI.06_ORGANIZADOR%20%20-%20Evento%20Mack%20Rede%20-%2013abr22%20(P%C3%A1g.%2048).pdf)
 
@@ -134,7 +134,7 @@ anexo: comprovante n° V.08 (Pág. 36)](https://github.com/massakiigarashi1/Memo
 
 *Participação em projetos de pesquisa*
 
-- [2018 Contrato MackPesquisa - Observatório Mackenzie de precedentes obritatórios_Decisões judiciais vinculantes e seus efeitos na sociedade anexo: comprovante n° VII.01 (Pág. 63)]()
+- [2018 Contrato MackPesquisa - Observatório Mackenzie de precedentes obritatórios_Decisões judiciais vinculantes e seus efeitos na sociedade anexo: comprovante n° VII.01 (Pág. 63)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.01_Contrato%20MackPesquisa%20-%20Observat%C3%B3rio%20Mackenzie%20de%20precedentes%20obritat%C3%B3rios_Decis%C3%B5es%20judiciais%20vinculantes%20e%20seus%20efeitos%20na%20sociedade%20(P%C3%A1g.%2067).pdf)
 
 *Orientações*
 
@@ -144,30 +144,50 @@ anexo: comprovante n° V.08 (Pág. 36)](https://github.com/massakiigarashi1/Memo
 
 - [2022 Certificado Orientador Elisabete de F. Olimpio - PIBITI 21_22 anexo: comprovante n° VII.04 (Pág. 68)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.04_Certificado%20Orientador%20Elisabete%20de%20F.%20Olimpio%20-%20PIBITI%2021_22%20(P%C3%A1g.%2072).pdf)
 
-- []()
+- [2020 Certificado Orientador Elisabete F. Olimpio - PIVIT_PIBITI 20_21 anexo: comprovante n° VII.05 (Pág. 69)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.05_Certificado%20Orientador%20Elisabete%20F.%20Olimpio%20-%20PIVIT_PIBITI%2020_21%20(P%C3%A1g.%2073).pdf)
 
-- []()
-  
-- []()
-  
-- []()
+- [2018 Certificado Orientador GabrIela e Victor - PIBIC 2018-2019 anexo: comprovante n° VII.06 (Pág. 70)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.06_Certificado%20Orientador%20GabrIela%20e%20Victor%20-%20PIBIC%202018-2019%20(P%C3%A1g.%2074).pdf)
 
-- []()
-  
-- []()
+*Presidente e Membro de Bancas TCC*
 
-- []()
+- [2023 Declaração Bancas TCC 2023.1 - Membro e PRESIDENTE anexo: comprovante n° VII.07 (Pág. 71)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.07_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202023.1%20-%20Membro%20e%20PRESIDENTE%20(P%C3%A1g.%2075).pdf)
+  
+- [2022 Declaração Bancas TCC 2022.2 - Membro e PRESIDENTE anexo: comprovante n° VII.08 (Pág. 73)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.08_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202022.2%20-%20Membro%20e%20PRESIDENTE%20(P%C3%A1g.%2077).pdf)
 
-- []()
+- [2022 Declaração Bancas TCC 2021.2 - PRESIDENTE anexo: comprovante n° VII.09 (Pág. 75)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.09_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202021.2%20-%20PRESIDENTE%20(P%C3%A1g.%2079).pdf)
   
-- []()
-  
-- []()
+- [2021 Declaração Bancas TCC 2021.1 - PRESIDENTE anexo: comprovante n° VII.10 (Pág. 76)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.10_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202021.1%20-%20PRESIDENTE%20(P%C3%A1g.%2080).pdf)
 
-- []()
-  
-- []()
+- [2021 Declaração Bancas TCC 2021.2 - 1de2 – Membro anexo: comprovante n° VII.11 (Pág. 77)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.11_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202021.2%20-%201de2%20-%20Membro%20(P%C3%A1g.%2081).pdf)
 
-- []()
+- [2021 Declaração Bancas TCC 2021.2 - 2de2 – Membro anexo: comprovante n° VII.12 (Pág. 78)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.12_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202021.2%20-%202de2%20-%20Membro%20(P%C3%A1g.%2082).pdf)
   
-- []()
+- [2021 Declaração Bancas TCC 2021.1 – Membro anexo: comprovante n° VII.13 (Pág. 79)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.13_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202021.1%20-%20Membro%20(P%C3%A1g.%2083).pdf)
+  
+- [2020 Declaração Bancas TCC 2020.2 – Membro anexo: comprovante n° VII.14 (Pág. 80)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.14_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202020.2%20-%20Membro%20(P%C3%A1g.%2084).pdf)
+
+- [2020 Declaração Bancas TCC 2020.2 - PRESIDENTE anexo: comprovante n° VII.15 (Pág. 81)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.15_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202020.2%20-%20PRESIDENTE%20%20(P%C3%A1g.%2085).pdf)
+
+**Parecerista**
+
+- [2023 PARECERISTA PIBIC 2023 anexo: comprovante n° VII.16 (Pág. 82)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.16_PARECERISTA%20PIBIC%202023%20(P%C3%A1g.%2086).pdf)
+  
+- [2021 Certificado PARECERISTA PIBIC_PIVIC 2021 anexo: comprovante n° VII.17 (Pág. 83)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.17_Certificado%20PARECERISTA%20PIBIC_PIVIC%202021%20(P%C3%A1g.%2087).pdf)
+
+**Membro NDE e Colegiado de Cursos**
+
+- [2021 Comprovação Participação NDE e Colegiados ENGENHARIA a 2023 anexo: comprovante n° VII.18 (Pág. 84)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VII.18_Comprova%C3%A7%C3%A3o%20Participa%C3%A7%C3%A3o%20NDE%20e%20Colegiados%20ENGENHARIA%20(P%C3%A1g.%2088).pdf)
+
+**VIII. INOVAÇÕES E PREMIAÇÕES**
+
+*Patentes:*
+
+- [RP BR 10 2016 017191-1 B1 – Sensor para medição de PH em sistemas microfluídicos anexo: comprovante n° VIII.01 (Pág. 89)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VIII.01_RP%20%20BR%2010%202016%20017191-1%20B1%20%E2%80%93%20Sensor%20para%20medi%C3%A7%C3%A3o%20de%20PH%20em%20sistemas%20microfluidicos%20%20(P%C3%A1g.%2093).pdf)
+  
+*Outras Premiações*
+
+- [❖ CERTIFICADO 2º LUGAR PREMIO TCC 2018 - ORIENTADOR anexo: comprovante n° VIII.02 (Pág. 90)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VIII.02%20-%202018.2_CERTIFICADO%202%C2%BA%20LUGAR%20PREMIO%20TCC%202018%20-%20ORIENTADOR%20%20(P%C3%A1g.%2094).pdf)
+- 
+- [❖ CERTIFICADO 1º LUGAR PREMIO TCC 2020 – ORIENTADOR anexo: comprovante nº VIII.03 (Pág. 91)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VIII.03%20-%202020.1_CERTIFICADO%201%C2%BA%20LUGAR%20PREMIO%20TCC%202020%20-%20ORIENTADOR%20%20(P%C3%A1g.%2095).pdf)
+- 
+- [❖ CERTIFICADO 1º LUGAR PREMIO TCC 2022.2 – ORIENTADOR anexo: comprovante nº VIII.04 (Pág. 92)](https://github.com/massakiigarashi1/Memorial-Circunstanciado/blob/main/VIII.04%20-%202022.2_CERTIFICADO%201%C2%BA%20LUGAR%20PREMIO%20TCC%202022.2%20%E2%80%93%20ORIENTADOR%20(P%C3%A1g.%2096).pdf)
