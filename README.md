@@ -27,11 +27,13 @@ No presente momento, resido na cidade de Jundiaí-SP e estou em busca de recoloc
 Todas as atividades citadas neste memorial possuem documento comprobatório e estão devidamente indicadas com um respectivo número devidamente referenciado neste memorial. 
 Agradeço a oportunidade e coloco-me à disposição para maiores esclarecimentos. 
 
+
 Jundiaí, janeiro de 2024.
 
 Massaki de Oliveira Igarashi.
 
 
+#========================================================================================================================================================================
 **I. DADOS PESSOAIS**
 
 Nome: Massaki de Oliveira Igarashi
